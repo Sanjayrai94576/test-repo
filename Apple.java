@@ -10,4 +10,7 @@ public class Main {
 	public void info(String msg) {
 		System.out.println("Further development is going on")
 	}
+	public void info3() {
+		System.out.println("online code");
+	}
 }
