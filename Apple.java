@@ -6,4 +6,8 @@ public class Main {
 	public void info() {
 		System.out.println("This is code written in bugfix branch");
 	}
+
+	public void info(String msg) {
+		System.out.println("Further development is going on")
+	}
 }
